@@ -22,7 +22,7 @@ Route::middleware('auth:sanctum')->get('/user', function (Request $request) {
 });
 
 Route::get('/user', [UserController::class, 'index']);
-Route::get('/user/edit', [UserController::class, 'edit']);
+
 
 
 
