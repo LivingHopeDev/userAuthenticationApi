@@ -1,1 +1,1 @@
-https://user-authenication-api.herokuapp.com/
+https://user-authenication-api.herokuapp.com/api/user
